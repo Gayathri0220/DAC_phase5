@@ -1,10 +1,12 @@
 # DAC_phase5
 In this COVID-19 cases analysis, we delve into the multifaceted dimensions of the global pandemic. Drawing from a meticulously curated dataset, the analysis encompasses various critical aspects, from the foundational descriptive statistics such as total cases, recoveries, and deaths, to an in-depth exploration of the temporal and spatial dynamics of the virus's spread. Through time series analysis, we uncover trends and patterns, shedding light on the evolving nature of the pandemic. A geographic examination reveals regional hotspots and variations, contributing to our understanding of the virus's impact across different countries and territories.
+
 1.Analysis Objectives:
 When defining the specific objectives of your analysis, consider the following points:
 •	Comparing Mean Values: Specify what you aim to achieve by comparing mean values of COVID-19 cases and deaths per day and by country. Are you looking for trends over time, differences between countries, or something else?
 •	Standard Deviation Comparison: Clarify the purpose of comparing standard deviations. Are you interested in assessing the variability in cases and deaths data? Is it to identify countries or time periods with particularly high or low variability?
 •	Hypotheses or Research Questions: If applicable, outline any hypotheses or research questions that you intend to address through your analysis. For example, "Is there a significant difference in the standard deviation of COVID-19 cases between EU/EEA countries?"
+
 2.Data Collection:
 Ensure a smooth data collection process by following these steps:
 •	Data Source: Clearly specify where you will obtain the COVID-19 cases and deaths data. Mention the source, such as a government health agency, a reliable dataset repository, or a research organization.
